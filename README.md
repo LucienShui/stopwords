@@ -2,7 +2,9 @@
 
 ## 源词表
 
-词表来自：https://github.com/goto456/stopwords
+- [其它.txt](./source/其它.txt)
+
+以下词表来自：https://github.com/goto456/stopwords
 
 - [中文停用词表.txt](source/中文停用词表.txt)
 - [哈工大停用词表.txt](source/哈工大停用词表.txt)
